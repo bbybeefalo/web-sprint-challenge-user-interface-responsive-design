@@ -107,11 +107,10 @@ header h1{
     width: 100%;
 }
 
-header .nav-items{
+header .nav{
     display: flex;
     justify-content: space-evenly;
     width: 100%;
-    background-color: aliceblue;
 }
 
 /* spacers */
@@ -164,6 +163,7 @@ header .nav-items{
 
 /* contact us section */
 .contact {
+    color: white;
     text-align: center;
     background-image: url("../img/jumbo-restaurant.jpg");
     background-size: cover;
