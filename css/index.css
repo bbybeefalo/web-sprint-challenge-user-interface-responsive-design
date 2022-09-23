@@ -99,18 +99,22 @@ header {
     width: 100%;
 }
 
-.socials{
+.socials {
     color: white;
 }
 
-header h1{
+header h1 {
     width: 100%;
 }
 
-nav{
-    display: flex;
+nav {
     justify-content: space-evenly;
     width: 100%;
+}
+
+nav links{
+    display:flex;
+    justify-content: space-evenly;
 }
 
 /* spacers */
