@@ -93,10 +93,14 @@ header {
     background-repeat: no-repeat;  
 }
 
- header .block{
+.block{
     background-color: rgb(0, 4, 17, .8);
     height: 30vh;
     width: 100%;
+}
+
+.socials{
+    color: white;
 }
 
 header h1{
